@@ -29,7 +29,7 @@
         },
         "dataSources": {
             "mainService": {
-                "uri": "/odata/v4/service/risk/",
+                "uri": "odata/v4/service/risk/",
                 "type": "OData",
                 "settings": {
                     "annotations": [],
